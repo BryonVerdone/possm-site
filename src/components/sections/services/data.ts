@@ -17,39 +17,33 @@ export const servicesSectionData = {
   },
   services: [
     {
-      title: "Solar Power Solutions",
-      briefDescription:
-        "Harness the power of the sun with our state-of-the-art solar panels. Generate clean energy for your home or business and reduce your carbon footprint.",
+      title: "Earl",
+      briefDescription: "Guitar/Vocals",
       visual: img1,
     },
     {
-      title: "Wind Energy Harvesting",
-      briefDescription:
-        "Embrace the power of the wind. Our wind energy solutions provide a sustainable and efficient way to generate electricity, ensuring a greener future.",
+      title: "Alisa",
+      briefDescription: "Vocals",
       visual: img2,
     },
     {
-      title: "Hydropower Systems",
-      briefDescription:
-        "Flow with nature. Our hydropower systems harness the energy of flowing water, delivering reliable and eco-friendly electricity to your doorstep.",
+      title: "Craig",
+      briefDescription: "Guitar",
       visual: img3,
     },
     {
-      title: "Energy Storage Solutions",
-      briefDescription:
-        "Store excess energy efficiently. Our cutting-edge energy storage solutions ensure uninterrupted power supply, even during cloudy days or low-wind periods.",
+      title: "Bryon",
+      briefDescription: "Bass",
       visual: img4,
     },
     {
-      title: "Smart Grid Technology",
-      briefDescription:
-        "Navigate the future with our smart grid technology. Optimize energy distribution, monitor consumption, and contribute to a more sustainable and efficient energy ecosystem.",
+      title: "Dave",
+      briefDescription: "Keys, Synth Percussion",
       visual: img5,
     },
     {
-      title: "Energy-efficient Lighting",
-      briefDescription:
-        "Illuminate your space responsibly. Our energy-efficient lighting solutions provide bright, sustainable, and cost-effective illumination for homes and businesses.",
+      title: "Ben",
+      briefDescription: "Drums",
       visual: img6,
     },
   ],

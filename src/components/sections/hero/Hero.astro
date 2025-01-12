@@ -1,6 +1,6 @@
 ---
 import { Image, Picture } from "astro:assets";
-import heroImg from "./assets/wind3.jpg";
+import heroImg from "./assets/mansfield-fullband.jpg";
 import CtaButton from "../../shared/CtaButton.astro";
 import GradiantText from "../../shared/GradiantText.astro";
 import SubTitle from "../../shared/SubTitle.astro";
@@ -8,10 +8,10 @@ import Title from "../../shared/Title.astro";
 import LazyImage from "../../shared/LazyImage.astro";
 
 const heroSection = {
-  headline1: "Powering",
-  headline2: "Tomorrow,",
-  headline3: "Sustainably",
-  headline4: "Today!",
+  headline1: "The",
+  headline2: "Professors of Sweet Sweet,",
+  headline3: "Music",
+  headline4: "",
   subheading1: "Join us in the green energy revolution",
   subheading2: "and be part of a sustainable future",
   subheading3: "for generations to come.",
@@ -40,14 +40,14 @@ const { className = "" } = Astro.props;
             {" " + heroSection.headline3}
           </GradiantText>{heroSection.headline4}
         </Title>
-        <SubTitle className=" mt-10 leading-9 italic">
-          {heroSection.subheading1}
-          <br />
-          {heroSection.subheading2}<br />
-          {heroSection.subheading3}
-        </SubTitle>
+        <!-- <SubTitle className=" mt-10 leading-9 italic"> -->
+        <!-- {heroSection.subheading1} -->
+        <!-- <br /> -->
+        <!-- {heroSection.subheading2}<br /> -->
+        <!-- {heroSection.subheading3} -->
+        <!-- </SubTitle> -->
         <div class="pt-10">
-          <CtaButton>{heroSection.buttonText}</CtaButton>
+          <!-- <CtaButton>{heroSection.buttonText}</CtaButton> -->
         </div>
       </div>
       <div class="flex relative pt-10 md:p-0">
