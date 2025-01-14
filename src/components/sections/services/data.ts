@@ -1,11 +1,11 @@
-import img1 from "./assets/solar3.png";
-import img2 from "./assets/wind.png";
+import img1 from "./assets/earl-marathon-copy.JPG";
+import img2 from "./assets/Alisa.JPG";
 // TODO
-import img3 from "./assets/hydro.png";
-import img4 from "./assets/storage.png";
+import img3 from "./assets/craig-marathon.JPG";
+import img4 from "./assets/bryon.jpg";
 // TODO
-import img5 from "./assets/smart-grid.png";
-import img6 from "./assets/green.png";
+import img5 from "./assets/dave.jpg";
+import img6 from "./assets/ben-marathon.JPG";
 
 export const servicesSectionData = {
   title: "Our Sustainable Energy Solutions",
